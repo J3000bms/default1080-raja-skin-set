@@ -1,5 +1,5 @@
 # default1080-raja-skin-set
-A skinset for beatoraja/lr2oraja and maybe some other BMS player clients that supports beatoraja skins
+A skinset for beatoraja/lr2oraja, BMZ Player and maybe some other BMS player clients that supports beatoraja LUA skins
 I haven't came up with a good name yet, maybe at the end of the day it will stay the same.
 
 ## Contents
