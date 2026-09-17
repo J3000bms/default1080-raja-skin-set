@@ -19,11 +19,17 @@ One issue I cannot fix yet. It currently shows genre and song artist during the 
 
 ## Result Screen ver.0.9
 Result screen have every basic feature included. Also comes wih bunch of customization options such as **1P/2P position**, **ability to deactivate most of the additional parts of the screen (ranking, graphs, chart info)**
-I also want to make a minimized version later on. Stay tuned for that.
+You can also click on DETAILS to open bigger xD graphs to look at. 
 
 ## Course Result Screen v.1.0
-
-
+Course result screen is basically stripped down Result Screen with everything necessary including IR ranking. You can also click on the magnified glass icon to see gauge graph more detailed.
 
 ## Play SKin (7K)
 Not included, currently being in development.
+
+## Usage in BMZ Player
+I've included separate edited LUA files that will work with BMZ Player correctly. It mostly an issue with how BMZ handling fonts in the game, so it required a bit of tweaking, here and there. Also DETAILS menu in RESULT SCREEN and COURSE RESULT **doesn't work** in BMZ (maybe just yet) so it was temporarely removed
+
+Choose **bmz_select.luaskin** for Music Select Screen
+      **bmz_result.luaskin** for Result Screen
+  and **bmz_courseresult** for Course Result
